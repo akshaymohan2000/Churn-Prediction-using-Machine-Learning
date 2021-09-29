@@ -22,3 +22,5 @@ The dataset is downloaded from kaggle and it's also added in this project
 The model is trained and tested , And i achieved 76% accuracy in it
 
 
+
+<a href="https://www.buymeacoffee.com/akshaymohanhere"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=akshaymohanhere&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
